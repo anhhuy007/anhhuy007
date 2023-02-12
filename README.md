@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @anhhuy007
-- 👀 I’m interested in Android and Algorithm Competitions
+- 👀 I’m interested in Android and Competitive Programming
 - 🌱 I’m currently working as a student at FIT-Ho Chi Minh University of Science
 - 📫 My email: imanhhuy007@gmail.com
