@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working as a student at [University of Science - VNU](https://www.hcmus.edu.vn/)
 
-- 🌱 I’m currently learning **Jetpack Compose**
-
-- 🤝 I’m looking for help with **Android projects**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **imanhhuy007@gmail.com**
 
