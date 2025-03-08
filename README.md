@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anh Huy
 
-### A passionate Software developer from VietNam
+### A passionate Software Engineering Student from VietNam
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhhuy007&label=Profile%20views&color=0e75b6&style=flat" alt="anhhuy007" /> </p>
 
