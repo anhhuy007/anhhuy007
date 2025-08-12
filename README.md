@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anh Huy
 
-### 🚀 Backend & Infrastructure–Focused Software Engineering Student from Vietnam
+### 🚀 Mobile & Backend Software Engineering Student from Vietnam
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anhhuy007&label=Profile%20views&color=0e75b6&style=flat" alt="anhhuy007" />
@@ -8,7 +8,7 @@
 
 - 🎓 Final-year Software Engineering student at [University of Science - VNU](https://www.hcmus.edu.vn/)  
 - 💻 Specializing in **Mobile & Backend Development**  
-- 🌱 Currently exploring **Scalable Systems**, **CI/CD Automation**, and **AI-powered applications**  
+- 🌱 Currently exploring **Scalable Systems**, **Cloud Infrastructure**, and **AI-powered applications**  
 - 📫 Reach me at **imanhhuy007@gmail.com**  
 - 🌐 Portfolio: [matoupine.vercel.app](https://matoupine.vercel.app)
 
