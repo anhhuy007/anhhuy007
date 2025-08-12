@@ -7,7 +7,7 @@
 </p>
 
 - 🎓 Final-year Software Engineering student at [University of Science - VNU](https://www.hcmus.edu.vn/)  
-- 💻 Specializing in **Backend Development, DevOps, and Cloud Infrastructure**  
+- 💻 Specializing in **Mobile & Backend Development**  
 - 🌱 Currently exploring **Scalable Systems**, **CI/CD Automation**, and **AI-powered applications**  
 - 📫 Reach me at **imanhhuy007@gmail.com**  
 - 🌐 Portfolio: [matoupine.vercel.app](https://matoupine.vercel.app)
