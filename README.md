@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anh Huy
+  # Hi 👋, I'm Anh Huy
 
 ### 🚀 Mobile & Backend Software Engineering Student from Vietnam
 
@@ -66,7 +66,6 @@
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://argo-cd.readthedocs.io/"><img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" width="40" height="40"/></a>
 <a href="https://helm.sh/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40" height="40"/></a>
 
