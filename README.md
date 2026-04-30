@@ -1,12 +1,12 @@
   # Hi 👋, I'm Anh Huy
 
-### 🚀 Mobile & Backend Software Engineering Student from Vietnam
+### 🚀 Fullstack Engineer from Vietnam
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anhhuy007&label=Profile%20views&color=0e75b6&style=flat" alt="anhhuy007" />
 </p>
 
-- 🎓 Final-year Software Engineering student at [University of Science - VNU](https://www.hcmus.edu.vn/)  
+- 🎓 Final-year student at [University of Science - VNU](https://www.hcmus.edu.vn/)  
 - 💻 Specializing in **Mobile & Backend Development**  
 - 🌱 Currently exploring **Scalable Systems**, **Cloud Infrastructure**, and **AI-powered applications**  
 - 📫 Reach me at **imanhhuy007@gmail.com**  
