@@ -9,37 +9,33 @@
 - 🎓 Final-year student at [University of Science - VNU](https://www.hcmus.edu.vn/)  
 - 💻 Specializing in **Mobile & Backend Development**  
 - 🌱 Currently exploring **Scalable Systems**, **Cloud Infrastructure**, and **AI-powered applications**  
-- 📫 Reach me at **imanhhuy007@gmail.com**  
+- 📫 Reach me at imanhhuy007@gmail.com  
 - 🌐 Portfolio: [matoupine.vercel.app](https://matoupine.vercel.app)
 
 ---
 
 ### 🛠️ Languages and Tools:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhhuy007&show_icons=true&locale=en&layout=compact" alt="anhhuy007" />
-</p>
-
-<br>
-
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     <img width="30px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   </kbd>
 
   <kbd>
     <kbd>Backend</kbd>
     <br>
     <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
@@ -88,3 +84,7 @@
 </p>
 
 <br>
+
+<p style="display: inline-block;" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhhuy007&show_icons=true&locale=en&layout=compact" alt="anhhuy007" />
+</p>
